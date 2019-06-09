@@ -1,5 +1,5 @@
 {
-  "name": "andremadarang",
+  "name": "aproflow_home",
   "private": true,
   "scripts": {
     "build": "gridsome build",
