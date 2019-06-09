@@ -2,26 +2,19 @@
   <Layout>
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="text-4xl leading-tight text-blue-dark">Aproflow</div>
-        <div class="text-2xl italic text-blue-light leading-tight">Emerging Trends, Curriculum Support, Industry
-Partnerships, & Authentic Student Experiences</div>
+        <div class="text-5xl leading-tight text-blue-dark pb-2">Aproflow</div>
+        <div class="text-2xl italic text-blue-400 leading-tight">Emerging Trends, Curriculum Support, Industry Partnerships, & Authentic Student Experiences</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/logo.png" alt="Aproflow" class="object-center object-scale-down h-40 w-full mx-auto sm:mx-0" />
       </div>
     </div> <!-- end hero -->
 
-    <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">This gridsome theme was forked from my <a href="https://andremadarang.com">personal website</a>. I added more features and decided to release it as an open source project. Check it out on <a href="https://github.com/drehimself/gridsome-portfolio-starter">GitHub</a> or check out the <a href="https://www.youtube.com/watch?v=uHo6o1TNQeE">screencast I did</a>. Feel free to use it for your own site or projects! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, repellat. Dolores iure, quas perspiciatis rerum quaerat atque eum repellat autem.</p>
-
-      <div class="flex justify-between items-center py-6">
-        <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
-          <g-image src="../../static/mind_map.svg" alt="browser" />
-        </div>
-        <div class="w-1/2 px-8 hidden sm:flex justify-end">
-          <g-image src="../../static/code_review.svg" alt="mobile" />
-        </div>
-      </div>
+    <div class="container-inner mx-auto pb-16">
+      <p class="text-lg sm:text-xl">This is filler text: <a href="example.com">example.com</a>. <br> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, repellat. Dolores iure, quas perspiciatis rerum quaerat atque eum repellat autem.
+        <br><br>
+      Emerging Trends, Curriculum Support, Industry Partnerships, & Authentic Student Experiences
+</p>
     </div>
 
     <div class="overflow-x-hidden">
@@ -33,19 +26,19 @@ Partnerships, & Authentic Student Experiences</div>
         </div>
 
         <ul class="text-lg sm:text-xl">
-          <li class="checkmark mb-6">
+          <li class="mb-6">
             <div>Project One</div>
             <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
           </li>
-          <li class="checkmark mb-6">
+          <li class="mb-6">
             <div>Project Two</div>
             <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
           </li>
-          <li class="checkmark mb-6">
+          <li class="mb-6">
             <div>Project Three</div>
             <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
           </li>
-          <li class="checkmark mb-6">
+          <li class="mb-6">
             <div>Project Four</div>
             <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
           </li>
@@ -113,7 +106,7 @@ Partnerships, & Authentic Student Experiences</div>
               </div>
 
               <div class="flex justify-end w-full">
-                  <input type="submit" value="Submit" class="block bg-green-700 hover:bg-green-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">
+                  <input type="submit" value="Submit" class="block bg-blue-light hover:bg-blue-dark text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">
               </div>
           </form>
           </div>
@@ -131,7 +124,7 @@ Partnerships, & Authentic Student Experiences</div>
           <form action="#">
             <div class="flex flex-col sm:flex-row">
               <input type="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-blue-dark z-10" required>
-              <button data-element="submit" class="flex-2 w-40 uppercase bg-green-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-green-800 focus:bg-green-800 z-10 w-full sm:w-auto mt-4 sm:mt-0">
+              <button data-element="submit" class="flex-2 w-40 uppercase bg-blue-light text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-blue-dark focus:bg-blue-dark z-10 w-full sm:w-auto mt-4 sm:mt-0">
                 <span>Subscribe</span>
               </button>
             </div>

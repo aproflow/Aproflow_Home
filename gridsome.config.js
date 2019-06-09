@@ -15,8 +15,7 @@ if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
   siteName: 'Aproflow',
-  siteDescription: 'Emerging Trends, Curriculum Support, Industry
-Partnerships, & Authentic Student Experiences',
+  siteDescription: 'Emerging Trends, Curriculum Support, Industry Partnerships, & Authentic Student Experiences',
   siteUrl: 'https://aproflow.com',
   plugins: [
     {
