@@ -1,12 +1,13 @@
 <template>
   <Layout>
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
-      <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Gridsome Portfolio Starter</div>
-        <div class="text-green-700 leading-tight">Powered by Vue.js &amp Tailwind 1.0</div>
+      <div class="font-bold w-full sm:w-3/5 text-center sm:text-left">
+        <div class="text-4xl leading-tight text-blue-dark">Aproflow</div>
+        <div class="text-2xl italic text-blue-light leading-tight">Emerging Trends, Curriculum Support, Industry
+Partnerships, & Authentic Student Experiences</div>
       </div>
       <div class="mt-8 sm:mt-0">
-        <g-image src="../../static/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
+        <g-image src="../../static/logo.png" alt="Aproflow" class="object-center object-scale-down h-40 w-full mx-auto sm:mx-0" />
       </div>
     </div> <!-- end hero -->
 
@@ -91,7 +92,7 @@
                           Name
                       </label>
 
-                      <input type="text" name="name" id="name" placeholder="Jon Snow" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
+                      <input type="text" name="name" id="name" placeholder="Jon Snow" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-blue-dark mb-2 p-4" required>
                   </div>
 
                   <div class="w-full px-4 md:w-1/2">
@@ -99,7 +100,7 @@
                           Email Address
                       </label>
 
-                      <input type="email" name="email" id="email" placeholder="email@example.com"  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
+                      <input type="email" name="email" id="email" placeholder="email@example.com"  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-blue-dark mb-2 p-4" required>
                   </div>
               </div>
 
@@ -108,7 +109,7 @@
                       Message
                   </label>
 
-                  <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-green-700 mb-2 px-4 py-4" placeholder="Enter your message here." required></textarea>
+                  <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-blue-dark mb-2 px-4 py-4" placeholder="Enter your message here." required></textarea>
               </div>
 
               <div class="flex justify-end w-full">
@@ -129,7 +130,7 @@
 
           <form action="#">
             <div class="flex flex-col sm:flex-row">
-              <input type="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-green-700 z-10" required>
+              <input type="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-blue-dark z-10" required>
               <button data-element="submit" class="flex-2 w-40 uppercase bg-green-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-green-800 focus:bg-green-800 z-10 w-full sm:w-auto mt-4 sm:mt-0">
                 <span>Subscribe</span>
               </button>
@@ -153,4 +154,3 @@ export default {
   }
 }
 </script>
-

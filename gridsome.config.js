@@ -14,9 +14,10 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-  siteName: 'Gridsome Portfolio Starter',
-  siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1.0',
-  siteUrl: 'https://gridsome-portfolio-starter.netlify.com',
+  siteName: 'Aproflow',
+  siteDescription: 'Emerging Trends, Curriculum Support, Industry
+Partnerships, & Authentic Student Experiences',
+  siteUrl: 'https://aproflow.com',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
@@ -50,7 +51,7 @@ module.exports = {
           title: node.title,
           description: node.summary,
           url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
-          author: 'Andre Madarang',
+          author: 'Dan Shields',
           date: node.date
         }),
         output: {
