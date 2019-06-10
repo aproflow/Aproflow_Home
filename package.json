@@ -9,6 +9,7 @@
     "build": "gridsome build",
     "develop": "gridsome develop",
     "explore": "gridsome explore",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -b master -o deploy -d dist"
   },
   "dependencies": {

@@ -25,7 +25,9 @@ A simple portfolio starter theme for Gridsome, based on [Andre Madarang's awesom
 1. `npm install`
 1. `gridsome develop` to start a local dev server at `http://localhost:8080`
 
-## Notes
+## Deploy w/ `gh-pages`
+
+In the project dir: `npm run deploy`
 
 ### Colors
 `2287c1` (light blue)
