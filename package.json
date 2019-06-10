@@ -1,10 +1,15 @@
 {
   "name": "aproflow_home",
+  "version": "1.0.0",
+  "description": "Aproflow Website",
+  "productName": "Aproflow Website",
+  "author": "Dan Shields <danwshields@gmail.com>",
   "private": true,
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "deploy": "gh-pages -b master -o deploy -d dist"
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^1.1.0",
@@ -20,6 +25,7 @@
     "vue-scrollto": "^2.15.0"
   },
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "tailwindcss": "^1.0.3"
   }
 }
