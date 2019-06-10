@@ -99,6 +99,15 @@ module.exports = {
         'monospace',
       ],
     },
+    listStyleType: {
+      none: 'none',
+      disc: 'disc',
+      decimal: 'decimal',
+      square: 'square',
+      roman: 'upper-roman',
+      arrow: 'url(../static/arrow.svg)',
+    }
+
   },
   variants: {
     // Some useful comment
