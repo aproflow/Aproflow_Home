@@ -107,7 +107,7 @@
           <g-image class="pt-1" src="../../static/arrow.svg" width="25" />
         </div>
         <div class="flex-1 text-lg sm:text-xl ml-5">
-          Alignment with, and potential to influence, K-16 blockchain evolution<br />and programming sponsored by the ​ <a title="U.S. Department of Education" href="https://tech.ed.gov/" target="_blank" rel="noopener"><em>U.S. Department of
+          Alignment with, and potential to influence, K-16 blockchain policy<br>and programming sponsored by the ​ <a title="U.S. Department of Education" href="https://tech.ed.gov" target="_blank" rel="noopener"><em>U.S. Department of
               Education</em></a>​.
         </div>
       </div>
