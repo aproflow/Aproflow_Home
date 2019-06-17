@@ -3,8 +3,10 @@
     <header class="border-t-14 border-blue-dark">
       <nav class="container mx-auto flex flex-wrap justify-between items-center py-8">
         <div>
-          <g-link v-if="theme === 'theme-light'" to="/"><g-image src="../../static/logo_text.png" class="w-40" alt="logo" /></g-link>
-          <g-link v-else to="/"><g-image src="../../static/logo_text.png" class="w-40" alt="logo" /></g-link>
+          <!-- <g v-if="theme === 'theme-light'" to="/"> -->
+            <g-image src="../../static/logo_text.png" class="w-40" alt="logo" />
+          <!-- </g-link> -->
+          <!-- <g-link v-else to="/"><g-image src="../../static/logo_text.png" class="w-40" alt="logo" /></g-link> -->
         </div>
         <div class="block lg:hidden">
           <button @click="toggle" class="flex items-center px-3 py-2 border rounded border-gray-500 hover:text-gray-600 hover:border-gray-600">
@@ -54,7 +56,7 @@
         </div>
         <ul class="flex items-center">
           <li class="mr-8">
-            <a href="mailto:aproflow@gmail.com" class="text-white hover:text-gray-400">
+            <a href="mailto:hello@aproflow.com" class="text-white hover:text-gray-400">
               <svg width="25" height="20" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M2.5 0h20A2.5 2.5 0 0 1 25 2.5v15a2.5 2.5 0 0 1-2.5 2.5h-20A2.5 2.5 0 0 1 0 17.5v-15C0 1.125 1.125 0 2.5 0zm20 4.225V2.5h-20v1.725l10 5 10-5zm0 2.8l-9.438 4.713a1.25 1.25 0 0 1-1.124 0L2.5 7.025V17.5h20V7.025z" fill-rule="nonzero"/></svg>
             </a>
           </li>
