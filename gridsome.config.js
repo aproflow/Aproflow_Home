@@ -16,9 +16,9 @@ if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 module.exports = {
   siteName: 'Aproflow',
   siteDescription: 'Emerging Trends, Curriculum Support, Industry Partnerships, & Authentic Student Experiences',
-  // siteUrl: 'https://aproflow.com',
-  siteUrl: 'https://aproflow.github.io',
-  pathPrefix: '/aproflow',
+  siteUrl: 'https://aproflow.com',
+  // siteUrl: 'https://aproflow.github.io',
+  // pathPrefix: '/aproflow',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
@@ -34,39 +34,42 @@ module.exports = {
         },
         remark: {
           plugins: [
-            [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+            ['gridsome-plugin-remark-shiki', {
+              theme: 'Material-Theme-Palenight',
+              skipInline: true
+            }]
           ]
         }
       }
     },
-    {
-      use: 'gridsome-plugin-rss',
-      options: {
-        contentTypeName: 'Post',
-        feedOptions: {
-          title: 'Gridsome Portfolio Starter Blog',
-          feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
-          site_url: 'https://gridsome-portfolio-starter.netlify.com/'
-        },
-        feedItemOptions: node => ({
-          title: node.title,
-          description: node.summary,
-          url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
-          author: 'Dan Shields',
-          date: node.date
-        }),
-        output: {
-          dir: './static',
-          name: 'rss.xml'
-        }
-      }
-    },
-    {
-      use: '@gridsome/plugin-sitemap',
-      options: {
-        cacheTime: 600000, // default
-      }
-    },
+    // {
+    //   use: 'gridsome-plugin-rss',
+    //   options: {
+    //     contentTypeName: 'Post',
+    //     feedOptions: {
+    //       title: 'Gridsome Portfolio Starter Blog',
+    //       feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
+    //       site_url: 'https://gridsome-portfolio-starter.netlify.com/'
+    //     },
+    //     // feedItemOptions: node => ({
+    //     //   title: node.title,
+    //     //   description: node.summary,
+    //     //   url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
+    //     //   author: 'Dan Shields',
+    //     //   date: node.date
+    //     // }),
+    //     output: {
+    //       dir: './static',
+    //       name: 'rss.xml'
+    //     }
+    //   }
+    // },
+    // {
+    //   use: '@gridsome/plugin-sitemap',
+    //   options: {
+    //     cacheTime: 600000, // default
+    //   }
+    // },
   ],
   transformers: {
     remark: {
