@@ -172,7 +172,7 @@
 
   <div class="contact bg-background-secondary py-8 overflow-x-hidden" id="contact">
     <div class="flex justify-center object-center w-full">
-      <a class="block bg-blue-400 hover:bg-blue-light tracking-wide rounded cursor-pointer px-20 py-3">
+      <a class="block bg-blue-400 hover:bg-blue-light tracking-wide rounded cursor-pointer px-20 py-3" href="mailto:hello@aproflow.com">
         <h2 class="text-white font-bold text-center text-2xl">Contact Us</h2>
       </a>
     </div>
@@ -185,7 +185,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Home'
+    title: 'Aproflow'
   }
 }
 </script>
