@@ -19,9 +19,7 @@
 
   <div class="container-inner mx-auto pb-16">
     <p class="text-lg sm:text-xl">
-      <br> <strong><em class="text-blue-dark">Apro</em>​<em class="text-blue-light">flow</em></strong>​ is a fully-integrated educational program and network focused on <strong>emerging trends, curriculum enhancment, industry partnerships, and
-        authentic student experiences</strong>. This initiative is anchored upon an ​<em>inter-collegiate hackathon and job fair</em> with that extends tailored industry research, ongoing curriculum integration,​ and programming throughout the year
-      and hosted at multiple partner institutions.
+      <br> <strong><em class="text-blue-dark">Apro</em><em class="text-blue-light">flow</em></strong> is a fully-integrated educational program and network focused on <strong>emerging trends, curriculum enhancment, industry partnerships, and authentic student experiences</strong>. This initiative is anchored upon a statewide career expo, ongoing curriculum integration opportunities, and programming throughout the year and hosted at multiple partner institutions.
     </p>
   </div>
 
@@ -54,10 +52,10 @@
           <g-image class="pt-1" src="../../static/arrow.svg" width="25" />
         </div>
         <div class="flex-1 text-lg sm:text-xl ml-5">
-          <strong class="flex-11">Discovery Sessions</strong>​ to gauge/drive interest and participation
+          <strong class="flex-11">Discovery Sessions</strong> to gauge/drive interest and participation
           <ul class="list-disc ml-10">
-            <li>Faculty-only​ : Cover fundamentals of distributed systems; open<br />doors to broader discussions of <strong>cross-discipline potential</strong>​;<br />contextualize for specific institutional cultures.</li>
-            <li>Public/Open​ : Students and (optionally) outside community to<br />review/hype <strong>distributed systems</strong> a<br />nd offer a program overview.</li>
+            <li>Faculty-only: Explore fundamentals of distributed systems; open doors to broader discussions of <strong>cross-discipline potential</strong>;<br />contextualized for unique institutional cultures.</li>
+            <li>Public/Open: Students, faculty, and community convergence for review of <strong>distributed systems</strong> and access to program overview.</li>
             <li><em>*Offered free, at any time, and without commitment!</em></li>
           </ul>
         </div>
@@ -68,11 +66,11 @@
           <g-image class="pt-1" src="../../static/arrow.svg" width="25" />
         </div>
         <div class="flex-1 text-lg sm:text-xl ml-5">
-          Semester-integrated ​<strong>extra-curricular sessions</strong>
+          Semester-integrated <strong>extra-curricular sessions</strong>
           <ul class="list-disc ml-10">
-            <li>Invite​ <strong>industry thought-leaders</strong>&nbsp;to conduct talks/workshops as<br />supplements to existing curriculum.</li>
-            <li>Focus on <strong>&ldquo;​soft​&rdquo; and/or trade skills​</strong> needed to succeed in this<br />industry (​ *relevance for any audience​ ).</li>
-            <li>Opportunity for students to network and​ <strong>receive mentorship</strong><br />from experts within the blockchain community, and beyond.</li>
+            <li>Invite <strong>industry thought-leaders</strong> to conduct talks/workshops as supplements to existing curriculum.</li>
+            <li>Focus on <strong>&ldquo;soft&rdquo; and/or trade skills</strong> needed to succeed in emerging industries (*relevance for any audience).</li>
+            <li>Opportunity for students to network and <strong>receive mentorship</strong> from experts within the blockchain community, and beyond.</li>
           </ul>
         </div>
       </div>
@@ -83,8 +81,8 @@
         </div>
         <div class="flex-1 text-lg sm:text-xl ml-5"> <strong>Student Hackathon and Industry Job Fair</strong>
           <ul class="list-disc ml-10">
-            <li>Offered early-September as a kick-off or to seed projects to be<br />worked on all semester, or Mid-November as a capstone project.</li>
-            <li>Optimal time to receive support, find opportunities to get hired,<br />start a company, or simply learn interactively with peers.</li>
+            <li>Offered as a semester kick-off to seed projects or as a closing capstone.</li>
+            <li>Optimal opportunities to receive mentor support, get hired, start a company, or simply learn interactively with peers.</li>
           </ul>
         </div>
       </div>
@@ -94,10 +92,9 @@
           <g-image class="pt-1" src="../../static/arrow.svg" width="25" />
         </div>
         <div class="flex-1 text-lg sm:text-xl ml-5">
-          Direct connections to <strong>​high-exposure events</strong>​
+          Direct connections to <strong>high-exposure events</strong>
           <ul class="list-disc ml-10">
-            <li>Attend as participant and/or volunteer to gain event
-              support experience.</li>
+            <li>Attend as participant and/or volunteer to gain event support experience.</li>
           </ul>
         </div>
       </div>
@@ -107,8 +104,7 @@
           <g-image class="pt-1" src="../../static/arrow.svg" width="25" />
         </div>
         <div class="flex-1 text-lg sm:text-xl ml-5">
-          Alignment with, and potential to influence, K-16 blockchain policy<br>and programming sponsored by the ​ <a title="U.S. Department of Education" href="https://tech.ed.gov" target="_blank" rel="noopener"><em>U.S. Department of
-              Education</em></a>​.
+          Alignment with, and potential to influence, K-16 blockchain policy and programming in connection with the <a title="U.S. Department of Education" href="https://tech.ed.gov" target="_blank" rel="noopener"><em>U.S. Department of Education</em></a>.
         </div>
       </div>
 
@@ -117,7 +113,7 @@
           <g-image class="pt-1" src="../../static/arrow.svg" width="25" />
         </div>
         <div class="flex-1 text-lg sm:text-xl ml-5">
-          Student opportunities​ for industry-expert exposure, paid/free<br />internships, gig/freelance/bounty work, and/or full-time employment.
+          Student opportunities for industry-expert exposure, paid/free<br />internships, gig/freelance/bounty work, and/or full-time employment.
         </div>
       </div>
     </div>
@@ -146,7 +142,7 @@
           </a>
         </div>
         <div class="flex-1 text-lg sm:text-xl ml-6"><strong>Taylor Kendal - Founding Partner</strong><br>
-          Consultant at U.S. Department of Education Office of EdTech
+          Consultant, U.S. Department of Education Office of EdTech
         </div>
       </div>
 
@@ -157,7 +153,7 @@
           </a>
         </div>
         <div class="flex-1 text-lg sm:text-xl ml-6"><strong>Al Pisano - Founding Partner</strong><br>
-          Director - Ed. Tech. @ Stony Brook University<br>
+          Director - EdTech @ Stony Brook University<br>
           President of IntegratEdtech and iGame4
         </div>
       </div>
