@@ -4,7 +4,7 @@
 
     <div class="flex-10 font-bold w-full sm:w-3/5 sm:text-left text-center pt-4">
 
-      <div class="text-5xl leading-tight text-blue-dark py-2"><strong><em class="text-blue-dark">APRO</em>​<em class="text-blue-light">FLOW</em></strong>​ </div>
+      <div class="text-5xl leading-tight text-blue-dark py-2"><strong><em class="text-blue-dark">APRO</em><em class="text-blue-light">FLOW</em></strong> </div>
 
       <div class="text-2xl italic text-blue-400 leading-tight pb-4">Blurring boundaries between earning, learning, and living
       </div>
