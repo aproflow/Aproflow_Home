@@ -10,7 +10,7 @@
     "develop": "gridsome develop",
     "explore": "gridsome explore",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -o deploy -d dist"
+    "deploy": "gh-pages -r git@github.com:aproflow/Aproflow_Home.git -b master -d dist"
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^1.1.0",
