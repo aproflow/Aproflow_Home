@@ -19,7 +19,7 @@
 
   <div class="container-inner mx-auto pb-16">
     <p class="text-lg sm:text-xl">
-      <br> <strong><em class="text-blue-dark">Apro</em><em class="text-blue-light">flow</em></strong> is a fully-integrated educational program and network focused on <strong>emerging trends, curriculum enhancment, industry partnerships, and authentic student experiences</strong>. This initiative is anchored upon a statewide career expo, ongoing curriculum integration opportunities, and programming throughout the year and hosted at multiple partner institutions.
+      <br> <strong><em class="text-blue-dark">Apro</em><em class="text-blue-light">flow</em></strong> is a fully-integrated educational program and network focused on <strong>emerging trends, curriculum enhancement, industry partnerships, and authentic student experiences</strong>. This initiative is anchored upon a statewide career expo, ongoing curriculum integration opportunities, and programming throughout the year and hosted at multiple partner institutions.
     </p>
   </div>
 
