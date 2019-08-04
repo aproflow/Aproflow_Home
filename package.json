@@ -9,7 +9,6 @@
     "build": "gridsome build",
     "develop": "gridsome develop",
     "explore": "gridsome explore",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -r git@github.com:aproflow/aproflow.github.io.git -b master -d dist"
   },
   "dependencies": {
@@ -22,7 +21,7 @@
     "gridsome-plugin-remark-shiki": "^0.3.0",
     "gridsome-plugin-rss": "^1.1.0",
     "lodash.pick": "^4.4.0",
-    "vue-fuse": "^2.1.0",
+    "vue-fuse": "2.0.1",
     "vue-scrollto": "^2.15.0"
   },
   "devDependencies": {
