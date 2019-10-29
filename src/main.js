@@ -18,17 +18,17 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'keywords',
-    content: 'Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS'
+    content: 'Aproflow,Blockchain,Education,Distributed,University,Events'
   })
 
   head.meta.push({
     name: 'description',
-    content: 'Gridsome Portfolio Starter'
+    content: 'Blurring boundaries between earning, learning, and living'
   })
 
   head.meta.push({
     name: 'author',
-    content: 'Dan Shields'
+    content: 'Aproflow'
   })
 
   head.link.push({
