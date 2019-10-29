@@ -7,7 +7,7 @@
   "private": true,
   "scripts": {
     "build": "gridsome build",
-    "develop": "gridsome develop",
+    "dev": "gridsome develop",
     "explore": "gridsome explore",
     "deploy": "gh-pages -r git@github.com:aproflow/aproflow.github.io.git -b master -d dist"
   },

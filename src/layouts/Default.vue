@@ -3,10 +3,9 @@
     <header class="border-t-14 border-blue-dark">
       <nav class="container mx-auto flex flex-wrap justify-between items-center py-8">
         <div>
-          <!-- <g v-if="theme === 'theme-light'" to="/"> -->
+          <g-link to="/">
             <g-image src="../../static/logo_text.png" class="w-40" alt="logo" />
-          <!-- </g-link> -->
-          <!-- <g-link v-else to="/"><g-image src="../../static/logo_text.png" class="w-40" alt="logo" /></g-link> -->
+          </g-link>
         </div>
         <div class="block lg:hidden">
           <button @click="toggle" class="flex items-center px-3 py-2 border rounded border-gray-500 hover:text-gray-600 hover:border-gray-600">
@@ -17,9 +16,9 @@
           class="uppercase tracking-wide font-bold w-full block flex-grow lg:flex lg:flex-initial lg:w-auto items-center mt-8 lg:mt-0"
           :class="isOpen ? 'block': 'hidden'"
         >
-          <!-- <li class="mr-8 mb-6 lg:mb-0">
-            <search-input />
-          </li> -->
+          <li class="mr-8 mb-6 lg:mb-0">
+            <g-link to="/ethdenver" class="text-blue-400 text-2xl underline italic hover:text-gray-600 ">ETHDenver</g-link>
+          </li>
           <li class="mr-8 mb-6 lg:mb-0">
             <a v-if="$route.path === '/'" href="/#services" v-scroll-to="'#services'" class="text-copy-primary hover:text-gray-600">Services</a>
             <g-link v-else to="/#services" class="text-copy-primary hover:text-gray-600">Services</g-link>
