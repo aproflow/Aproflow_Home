@@ -47,7 +47,7 @@
       </ul>
 
       <div class="flex justify-center object-center w-full pt-8">
-        <a class="block bg-blue-light hover:bg-blue-700 tracking-wide rounded cursor-pointer px-24 py-3" href="../../Aproflow_Package-ETHDenver.pdf" download="Aproflow_Package_ETHDenver.pdf">
+        <a class="block bg-blue-light hover:bg-blue-700 tracking-wide rounded cursor-pointer px-24 py-3" href="../../Aproflow_Package_ETHDenver.pdf" download="Aproflow_Package_ETHDenver.pdf">
           <h2 class="text-white font-bold text-center text-2xl italic">Aproflow + ETHDenver <br>Service Details</h2>
         </a>
       </div>
