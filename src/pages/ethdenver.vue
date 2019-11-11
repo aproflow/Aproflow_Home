@@ -12,7 +12,7 @@
 
   <div class="container-inner mx-auto pb-10">
     <p class="text-xl">
-      <strong><em class="text-blue-dark">Apro</em><em class="text-blue-light">flow</em></strong> and ETHDenver have partnered to offer ETHDenver sponsors with <b>local support</b> in coordinating events before, during, and after #BUIDL Week and ETHDenver. We coordinate year-round Colorado meet-ups and have strong connections with local universities, making it easier for incoming sponsors to reach local students and blockchain enthusiasts.
+      <strong><em class="text-blue-dark">Apro</em><em class="text-blue-light">flow</em></strong> and ETHDenver have partnered to offer ETHDenver sponsors <b>local support</b> in coordinating events before, during, and after #BUIDL Week and ETHDenver. We coordinate year-round Colorado meet-ups and have strong connections with local universities, making it easier for incoming sponsors to reach local students and blockchain enthusiasts.
       <br><br>
       <strong><em>We unbox the potential <u>around</u> ETHDenver and get you connected directly to attendees, so they go straight to using your products and services at ETHDenver and beyond.</em></strong>
     </p>
