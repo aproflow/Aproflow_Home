@@ -12,8 +12,7 @@
 
   <div class="container-inner mx-auto pb-10">
     <p class="text-xl">
-      <strong><em class="text-blue-dark">Apro</em><em class="text-blue-light">flow</em></strong> and ETHDenver have partnered to offer ETHDenver sponsors with <b>local support</b> in coordinating events before, durring, and afer #BUIDL Week and
-      ETHDenver. We coordinator of year-round Colorado meet-ups and have strong connections with local universities, making it vastly easier for incoming sponsors to reach local students and blockchain enthusiasts.
+      <strong><em class="text-blue-dark">Apro</em><em class="text-blue-light">flow</em></strong> and ETHDenver have partnered to offer ETHDenver sponsors with <b>local support</b> in coordinating events before, during, and after #BUIDL Week and ETHDenver. We coordinate year-round Colorado meet-ups and have strong connections with local universities, making it easier for incoming sponsors to reach local students and blockchain enthusiasts.
       <br><br>
       <strong><em>We unbox the potential <u>around</u> ETHDenver and get you connected directly to attendees, so they go straight to using your products and services at ETHDenver and beyond.</em></strong>
     </p>
@@ -48,7 +47,7 @@
       </ul>
 
       <div class="flex justify-center object-center w-full pt-8">
-        <a class="block bg-blue-light hover:bg-blue-700 tracking-wide rounded cursor-pointer px-24 py-3" href="../../Aproflow_Package-ETHDenver.pdf" download="Aproflow_Package-ETHDenver.pdf">
+        <a class="block bg-blue-light hover:bg-blue-700 tracking-wide rounded cursor-pointer px-24 py-3" href="../../Aproflow_Package-ETHDenver.pdf" download="Aproflow_Package_ETHDenver.pdf">
           <h2 class="text-white font-bold text-center text-2xl italic">Aproflow + ETHDenver <br>Service Details</h2>
         </a>
       </div>
